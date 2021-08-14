@@ -136,7 +136,8 @@ Email the [Rust Community Team][community] for access.
 
 # Rust Jobs
 
-*Tweet us at [@ThisWeekInRust](https://twitter.com/ThisWeekInRust) to get your job offers listed here!*
+## Apple
+- Distributed Block Storage (Seattle, WA, USA) https://jobs.apple.com/en-us/details/200275619/software-engineer?team=SFTWR
 
 # Quote of the Week
 
